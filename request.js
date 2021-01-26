@@ -1,7 +1,7 @@
 /* =============================================================================
                              request()
 ============================================================================= */
-//Works with the following data formats: JSON JSON, FormData and querystrings.
+//Works with the following data formats: JSON, FormData and querystrings.
 //Works with GET, POST, PUT, PATCH, and DELETE requests.
 
 
